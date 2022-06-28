@@ -23,4 +23,4 @@ public:
         std::unordered_map<int, int> daxi;
         std::queue<node>;
     }
-} 
+} ;
